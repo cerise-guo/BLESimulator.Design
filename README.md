@@ -18,7 +18,8 @@ The goal of this project is to fully simulate mobile OS BLE interaction in appli
 
 | Plugin | README |
 | ------ | ------ |
-| Architecture Design | [Design.md](Design.md) |
+| Architecture and Design | [Design.md](Design.md) |
+| Architecture Design | [Design2.md](https://github.com/cerise-guo/BLESimulator.Design/blob/master/Design.md) |
 | Status and Todo | [Status.md](Status.md) |
 | How to use in Android | [AndroidHelp.md](AndroidHelp.md) |
 | How to use in iOS | [iOSHelp.md](iOSHelp.md) |
