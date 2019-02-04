@@ -18,10 +18,9 @@ The goal of this project is to fully simulate mobile OS BLE interaction in appli
 
 | Plugin | README |
 | ------ | ------ |
-| Architecture Design | [Design.md] |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Architecture Design | [Design.md](Design.md) |
+| Status and Todo | [Status.md](Status.md) |
+| How to use in Android | [AndroidHelp.md](AndroidHelp.md) |
+| How to use in iOS | [iOSHelp.md](iOSHelp.md) |
+
  
